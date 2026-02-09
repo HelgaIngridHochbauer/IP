@@ -3,9 +3,8 @@
 Change anything, from furniture to color-scheme of your house with this AI tool
 
 ## Features
-- Stable Diffusion Model
-- Gradio interface
-- Quiz
+<img width="1329" height="693" alt="image" src="https://github.com/user-attachments/assets/250456fd-e7df-4c23-97e9-1b63d78b8026" />
+
 
 ## How to use it
 1. upload an image
