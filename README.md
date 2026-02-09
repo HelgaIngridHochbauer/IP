@@ -14,4 +14,6 @@ Change anything, from furniture to color-scheme of your house with this AI tool
 2. add your preferences
 3. the AI model will be prompted such that it will generate a new image with your new room
 
+## Examples
+<img width="1358" height="683" alt="image" src="https://github.com/user-attachments/assets/b5f08e05-b0fb-41ca-91ae-5f60f0dca612" />
 
