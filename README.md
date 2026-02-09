@@ -2,7 +2,7 @@
 
 Change anything, from furniture to color-scheme of your house with this AI tool
 
-##Introduction
+## Introduction
 Room Transformation Studio is an innovative application designed to assist users in redesigning and
 reimagining their living spaces using AI-powered tools. This documentation provides a comprehensive
 overview of the application, its functionality, and implementation.
